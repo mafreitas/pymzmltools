@@ -1,7 +1,7 @@
 name: mzml_tools
 channels:
   - conda-forge
-  - biconda
+  - bioconda
   - defaults
 dependencies:
   - python=3.7
